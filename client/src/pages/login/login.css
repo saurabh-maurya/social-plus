@@ -68,6 +68,14 @@
       font-weight: 500;
       cursor: pointer;
   }
+
+  .loginButton:focus{
+    outline: none;
+  }
+  
+  .loginButton:disabled{
+    cursor: none;
+  }
   
   .loginForgot{
       text-align: center;
