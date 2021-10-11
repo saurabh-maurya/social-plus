@@ -21,8 +21,8 @@ The application is based on concept of social media. This application build usin
 
 ### Database
 1. Collections - 
-    - *Users* - use to store user related information, *fields -* username, email, password, profilePicture, coverPicture, followers, followings, isAdmin, desc, city, from, relationship
-    - *Posts* -  use to store post related data, *fields -* userId, desc, likes, img
+    - *Users* - use to store user related information
+    - *Posts* -  use to store post related data
 2. Fields - 
     - *Users* - username, email, password, profilePicture, coverPicture, followers, followings, isAdmin, desc, city, from, relationship
     - *Posts* -  userId, desc, likes, img
